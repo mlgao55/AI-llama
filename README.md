@@ -2,10 +2,10 @@ Professional public health publications are hard for people who are not in the m
 
 The Python code is developed in a Linux CentOS-7 environment. 
 
-Install required libraries:
-pip install transformers torch
+1) Install required libraries:
+- pip install transformers torch
 
-Workflow:
+2) Workflow:
 -  load the Llama-2-7b-chat-hf model and tokenizer.
 -  Read the input file and generate Q&A pairs. Next
 -  Save and display the output.
