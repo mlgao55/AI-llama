@@ -12,7 +12,8 @@ Python code is developed for this purpose. The Python code is developed in a Lin
 -  Translate the output into other languages
 
   
-Note : - Data preprocess : parse_doc.py
-       - Generate Q&A pairs : create_Q_A.py
-       - Translate into other languages : translate.py 
+Note: 
+- Data preprocess: parse_doc.py
+- Generate Q&A pairs : create_Q_A.py
+- Translate into other languages: translate.py 
 
