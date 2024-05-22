@@ -1,2 +1,7 @@
 # AI-llama
-A study to use AI tools 
+The Python code is developed in a Linux CentOS-7 environment. 
+
+Install required libraries:
+pip install transformers torch
+
+
